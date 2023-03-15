@@ -1,2 +1,2 @@
 # WendyWang.github.io
-theme: minima
+theme: Minima
