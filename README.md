@@ -4,14 +4,9 @@
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1B2n6Et8u7TaDUFyYU_QTZvQNmnppvyrLHioHajG6ZXs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 <iframe src="https://uploads.knightlab.com/storymapjs/8f799a09719c88b5c348332d314f0c33/oscar/draft.html" frameborder="0" width="100%" height="800"></iframe>
 
-<!DOCType html>
 
 <html>
-   <head>
-         <title>Tableau Dashboard Demo</title>
-   </head>
    <body>
-       <h5> This is my Tableau dashboard </h5>
        <div class='tableauPlaceholder' id='viz1682401904325' style='position: relative'><noscript><a href='#'><img alt='Is Your County Obese?                                     
        Select your county to see how it compares with other counties in the country                         ' 
        src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;Regional_16823793137740&#47;Obesity&#47;1_rss.png' 
