@@ -45,9 +45,7 @@
       vizElement.parentNode.insertBefore(scriptElement, vizElement);               
     </script>
     </body>
-  </html>
-  
-<html> 
+ 
    <div class='tableauPlaceholder' id='viz1682665909087' style='position: relative'><noscript>
    <a href=' '> 
    < img alt='Acting and Directing Oscars: Which Countries Come Out on Top?  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ac&#47;ActingandDirectingOscarsWhichCountriesComeOutonTop&#47;1&#47;1_rss.png' style='border: none' />
